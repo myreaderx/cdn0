@@ -1,0 +1,10 @@
+{
+    "feed":
+    {
+        "id":123,
+        "url":"http://partner.dw.com/syndication/feeds/GK-Inoreader-Chinese.21711-media.xml"
+    },
+    "existLatestLinkList":[
+        "123123"
+    ]
+}
